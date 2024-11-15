@@ -7,7 +7,7 @@
 .main {
     height: 370vh;
     width: 100%;
-    background-color: red;
+    background-color: rgb(255, 255, 255);
 }
 
 .section1 {
@@ -60,7 +60,7 @@ a:hover {
     height: 50px;
     width: 60%;
     /* background-color: violet; */
-    background-image: url(./Screenshot\ \(1570\).png);
+    background-image: url(./assets/Screenshot\ \(1570\).png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -152,7 +152,7 @@ svg:hover {
     height: 530px;
     width: 100%;
     background-color: rgb(0, 204, 255);
-    background-image: url(./file.jpeg);
+    background-image: url(./assets/file.jpeg);
     background-position: top;
     background-repeat: no-repeat;
     background-size: contain;
@@ -240,7 +240,7 @@ svg:hover {
     height: 180px;
     width: 25%;
     background-color: red;
-    background-image: url(./file\ \(3\).jpeg);
+    background-image: url(./assets/file\ \(3\).jpeg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -250,7 +250,7 @@ svg:hover {
     height: 180px;
     width: 25%;
     background-color: rebeccapurple;
-    background-image: url(./file\ \(2\).jpeg);
+    background-image: url(./assets/file\ \(2\).jpeg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -260,7 +260,7 @@ svg:hover {
     height: 180px;
     width: 25%;
     background-color: rgb(128, 0, 255);
-    background-image: url(./file\ \(1\).jpeg);
+    background-image: url(./assets/file\ \(1\).jpeg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -270,7 +270,7 @@ svg:hover {
     height: 180px;
     width: 25%;
     background-color: rgb(45, 0, 90);
-    background-image: url(./file\ \(4\).jpeg);
+    background-image: url(./assets/file\ \(4\).jpeg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
